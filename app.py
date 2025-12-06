@@ -1,8 +1,3 @@
-DB_PATH = 'crm.db'
-BOT_TOKEN = '8233799947:AAFnAXITg1b_JYfJ9JXOkHIyQPioROf9fuc'
-ADMIN_CHAT_IDS = [6855997739, 266123144, 520801616, 6671470759]
-
-# import os
 # import sqlite3
 # from datetime import datetime, time as dtime
 # import pandas as pd
